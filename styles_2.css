@@ -1,0 +1,127 @@
+.top_container{
+    background-color:537188;
+
+   
+}
+.top-cloud{
+    position:relative;
+    left:20% ;
+    
+
+
+}
+.bottom-cloud{
+    position:absolute;
+
+}
+
+body{
+    text-align: center;
+    margin:0;
+    font-family:Georgia, 'Times New Roman', Times, serif; 
+    cursor: url('cursor.jpg'),auto;
+}
+h1{
+    margin-top:0;
+    padding:3%;
+    font-family: cursive;
+    
+}
+.c{
+    text-decoration: underline;
+    color:blanchedalmond;
+    
+}
+.name{
+    color:bisque;
+}
+
+.w{
+    text-decoration: underline;
+    color:antiquewhite;
+}
+.mountain{
+    margin-bottom: 0%;
+}
+.v{
+    height:200px;
+    width:150px;
+    display:inline-block;
+}
+.jk{
+    height:200px;
+    width:150px;
+    display:inline-block;
+}
+.aurora{
+    height:200px;
+    width:150px;
+    display:inline-block;
+}
+.bts{
+    height:200px;
+    width:150px;
+    display:inline-block;
+}
+.digiart{
+    background-color:99A98F;
+}
+.skill-row{
+
+    background-color:ABC4AA;
+}
+.footer-link{
+    color:beige;
+}
+.bottom-container{
+   background-color:617A55;
+   color:blanchedalmond;
+}
+.more{
+    color:rgb(216, 211, 205)
+}
+.get{
+    color:bisque
+}
+.contact-me{
+    background-color:617A55;
+   
+}
+.pic{
+    border-radius:60%;
+    height:250px;
+    width:270px;
+  
+    margin-top: 20px;
+    
+
+}
+
+
+
+
+    
+
+.middle-container{
+    background-color:ABC4AA;
+}
+.btn{
+    color:rgb(219, 210, 117);
+}
+
+
+/*
+.middle_container{
+    background-color:bisque;
+    width:200px;
+    height: 200px;
+    border:solid 20px;
+    margin-left:260px;
+}
+.bottom_container{
+    background-color: sienna;
+    width:200px;
+    height: 200px;
+    border:solid 10px;
+    margin-left:500px;   
+}
